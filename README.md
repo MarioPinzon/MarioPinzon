@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @MarioPinzon
-- 🌱 I’m currently learning html, css, javascript, php, c#
+- 🌱 I’m currently learning html, css, javascript, php and c#
